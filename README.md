@@ -1,1 +1,0 @@
-# Magazine-Manager-Frontend
